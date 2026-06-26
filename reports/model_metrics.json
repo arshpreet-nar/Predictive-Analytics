@@ -1,0 +1,14 @@
+{
+  "rows": 240.0,
+  "train_rows": 192.0,
+  "test_rows": 48.0,
+  "rmse": 4309.86,
+  "mae": 3513.86,
+  "r2_score": 0.5571,
+  "intercept": 17402.0,
+  "coefficient_tv_ad_spend": 0.0711,
+  "coefficient_radio_ad_spend": 0.0499,
+  "coefficient_social_media_spend": 0.1274,
+  "coefficient_email_campaign_spend": 0.0519,
+  "coefficient_discount_percent": 365.3478
+}
